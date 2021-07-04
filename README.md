@@ -1,12 +1,16 @@
-# Django_SDK
+# Django SDK
 
-Docker image for Django Web Application SDK
+Docker image for Django Web Application Development SDK
 
-## Packages
+# Packages
 Base image : python:3.9.6-buster
 
+# Supported Tags
 
-## License
+* `latest` : python 3.9.6
+
+
+# License
 BSD 2-Clause License
 
 Copyright (c) 2021, Koichi Murakami
