@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+django = "*"
+django-autocomplete-light = "*"
+django-auth-ldap = "*"
+django-material = "*"
+avinit = "*"
+ldap3 = "*"
+sqlalchemy = "*"
+uwsgi = "*"
+pdfminer-six = "*"
+django-structlog = "*"
+django-clamd = "*"
+pyminizip = "*"
+cryptography = "*"
+psycopg2 = "*"
+django-nose = "*"
+coverage = "*"
+mock = "*"
+tblib = "*"
+
+[requires]
+python_version = "3.9"
