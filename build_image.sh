@@ -6,7 +6,7 @@ export DOCKER_BUILDKIT=1
 
 echo "@@ Build Docker image ..."
 
-target=koichimurakamik6/django_sdk:3.9.6
+target=koichimurakamik6/django_sdk:latest
 
 id=`docker image ls -q $target`
 
