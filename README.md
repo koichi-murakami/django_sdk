@@ -3,12 +3,11 @@
 Docker image for Django Web Application Development SDK
 
 # Packages
-Base image : python:3.9.6-buster
+Base image : ubuntu:latest
 
 # Supported Tags
 
-* `latest` : python 3.9.6
-
+* `latest` : Python 3.8 + Django 3.2.5 (Ubuntu 20.04)
 
 # License
 BSD 2-Clause License
